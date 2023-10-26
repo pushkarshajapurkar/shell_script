@@ -1,0 +1,17 @@
+total 68
+-rw-r--r-- 1 pushkar pushkar    0 Oct 26 15:31 2.txt
+-rwxr-xr-x 1 pushkar pushkar  502 Oct 26 14:05 array.sh
+-rwxr-xr-x 1 pushkar pushkar  218 Oct 26 12:13 case_statement.sh
+-rwxr-xr-x 1 pushkar pushkar  164 Oct 26 14:08 cli_arg.sh
+-rwxr-xr-x 1 pushkar pushkar  168 Oct 26 12:07 conditional.sh
+-rwxr-xr-x 1 pushkar pushkar  112 Oct 26 14:21 error-part2.sh
+-rwxr-xr-x 1 pushkar pushkar  106 Oct 26 14:25 error-prt3.sh
+-rwxr-xr-x 1 pushkar pushkar  141 Oct 26 14:18 error_handling.sh
+-rw-r--r-- 1 pushkar pushkar 9639 Oct 26 15:28 example.txt
+-rwxr-xr-x 1 pushkar pushkar  833 Oct 26 13:17 function.sh
+-rwxr-xr-x 1 pushkar pushkar  486 Oct 26 12:31 loops.sh
+-rwxr-xr-x 1 pushkar pushkar   74 Oct 26 15:31 piping.sh
+-rwxr-xr-x 1 pushkar pushkar  321 Oct 26 11:35 quote.sh
+-rwxr-xr-x 1 pushkar pushkar  398 Oct 26 13:36 string_manipulation.sh
+-rwxr-xr-x 1 pushkar pushkar  470 Oct 26 12:01 userinput.sh
+-rwxr-xr-x 1 pushkar pushkar  776 Oct 26 11:24 variables.sh
